@@ -1,4 +1,4 @@
-# ☕ Excel Data Analysis Project by Shubham Pawar
+# ☕ Excel Data Analysis Project by Harshad Shitole
 
 ## 📊 Coffee Sales Dashboard  
 ![Coffee Background Banner (4)](https://github.com/harshad1062/Excel_Coffee_Store_Project/blob/main/Images/Banner.png)
