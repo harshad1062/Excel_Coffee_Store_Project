@@ -1,7 +1,7 @@
 # ☕ Excel Data Analysis Project by Shubham Pawar
 
 ## 📊 Coffee Sales Dashboard  
-![Coffee Background Banner (4)](https://github.com/mjshubham21/Excel_Coffe_Sales_Analysis/blob/main/images/Banner.png)
+![Coffee Background Banner (4)](https://github.com/harshad1062/Excel_Coffee_Store_Project/blob/main/Images/Banner.png)
 
 ---
 
@@ -20,7 +20,7 @@ This analysis was conducted entirely using **Microsoft Excel**, leveraging its c
 
 ## 📁 Dataset  
 You can view the dataset used in this project here:  
-🔗 [Coffee Shop Sales Dataset (Excel)](https://github.com/mjshubham21/Excel_Coffe_Sales_Analysis/blob/main/Coffee%20Shop%20Sales_DATASET.xlsx)
+🔗 [Coffee Shop Sales Dataset (Excel)](https://github.com/harshad1062/Excel_Coffee_Store_Project/blob/main/Coffee_Shop_Sales_DATASET.xlsx)
 
 ---
 
@@ -68,4 +68,4 @@ The dashboard focuses on the following business-critical KPIs:
 ---
 
 ## 📎 Dashboard Snapshot  
-![Dashboard Screenshot](https://github.com/mjshubham21/Excel_Coffe_Sales_Analysis/blob/main/images/Dashboard.png)
+![Dashboard Screenshot](https://github.com/harshad1062/Excel_Coffee_Store_Project/blob/main/Images/Dashboard.png)
